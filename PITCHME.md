@@ -133,7 +133,7 @@ You should have the following access
 - nvm
 - git 
 
-URL : https://school.nextacademy.com/courses/frontend-web-development-typescript-angular/lessons/3107
+https://school.nextacademy.com/courses/frontend-web-development-typescript-angular/lessons/3107
 
 +++ 
 
