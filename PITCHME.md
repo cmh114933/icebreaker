@@ -7,7 +7,11 @@
 +++ 
 
 ### Chan Ming Xiang
+
+@snap[text-left]
 #### Experience : 4 Years 
+
+@snap[text-left]
 #### Tech Stack : 
 - Ruby, Elixir, Python, Java, C#, Objective C, Swift
 - ReactJS, Redux, Angular, Graphql
@@ -16,7 +20,10 @@
 +++
 
 ### Chan Ming Hao
+
+@snap[text-left]
 #### Experience : 2 Years 
+@snap[text-left]
 #### Tech Stack : 
 - Ruby, Elixir, Python, Java, C#, Swift
 - ReactJS, Redux, Angular, Graphql, Mobx
@@ -51,22 +58,28 @@
 - Outcome: 
     - Understand Basic Programming Concepts
     - Can use programming to approach every day problems
+
 #### Week 2 - HTML, CSS and TypeScript Interactivity
 - Outcome: 
     - Can create interactive web pages
+
++++
+
 #### Week 3 - Angular Basics (Simple Clicker & Tic Tac Toe)
 - Outcome:
     - Begin to use Angular Framework
     - Can create dynamically updated pages
 
-+++
-
 #### Week 4 - Angular Basics (Nextagram)
 - Outcome:
     - Can create Single Page Applications
+
++++
+
 #### Week 5 - Angular (NextChat)
 - Outcome:
     - Can use Socket.js to create Real Time Chat Application
+
 #### Week 6 - Project
 - Outcome:
     - Culmination of previous 5 weeks learnings
@@ -113,6 +126,7 @@ You should have the following access
 - Scoop
 - nvm
 - git 
+
 URL : https://school.nextacademy.com/courses/frontend-web-development-typescript-angular/lessons/3107
 
 +++ 
