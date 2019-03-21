@@ -54,32 +54,38 @@
 ## Phase 1 - Frontend
 
 +++
+@snap[text-left]
 #### Week 1 - TypeScript Basics
 - Outcome: 
     - Understand Basic Programming Concepts
     - Can use programming to approach every day problems
 
+@snap[text-left]
 #### Week 2 - HTML, CSS and TypeScript Interactivity
 - Outcome: 
     - Can create interactive web pages
 
 +++
 
+@snap[text-left]
 #### Week 3 - Angular Basics (Simple Clicker & Tic Tac Toe)
 - Outcome:
     - Begin to use Angular Framework
     - Can create dynamically updated pages
 
+@snap[text-left]
 #### Week 4 - Angular Basics (Nextagram)
 - Outcome:
     - Can create Single Page Applications
 
 +++
 
+@snap[text-left]
 #### Week 5 - Angular (NextChat)
 - Outcome:
     - Can use Socket.js to create Real Time Chat Application
 
+@snap[text-left]
 #### Week 6 - Project
 - Outcome:
     - Culmination of previous 5 weeks learnings
