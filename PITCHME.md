@@ -38,15 +38,23 @@
 - Building Frontend Application in HTML, CSS, TypeScript and Angular
 
 +++
-### Phase 2 - (4 weeks)
+### Phase 2 - (2 weeks)
+- Building and deploying a backend with Node.js
+
++++
+### Phase 3 - (2 weeks)
+- Mobile apps in Ionic
+
++++
+### Phase 4 - (2 weeks)
 - Programming and writing algorithmic solutions in Java
 
 +++
-### Phase 3 - (11 weeks)
+### Phase 3 - (9 weeks)
 - Building, Deploying and Testing CRUD Web Application in Java, Spring and SQL server 
 
 +++
-### Phase 4 - (5 weeks)
+### Phase 4 - (3 weeks)
 - Enhancement - Python, C# and .Net
 
 ---
@@ -96,9 +104,8 @@
 ### Weekly
 - 1 Day (8 hours) In-Person Training with lectures, activities and projects
     - Run through past week assignments at the start of day
-    - Lunch (1pm - 2pm)
-    - Friday Prayers (Be back by 2.30 pm)
-- Weekly assignments scheduled every week
+    - Lunch (12pm - 1pm)
+- Weekly assignments scheduled every week (approximately 8 hours after class commitment)
     - Submission at 2 days before In-Person Training
     - Available for communication through Slack and VS Code Live share for advice and help.
 
