@@ -50,11 +50,11 @@
 - Programming and writing algorithmic solutions in Java
 
 +++
-### Phase 3 - (9 weeks)
+### Phase 5 - (9 weeks)
 - Building, Deploying and Testing CRUD Web Application in Java, Spring and SQL server 
 
 +++
-### Phase 4 - (3 weeks)
+### Phase 6 - (3 weeks)
 - Enhancement - Python, C# and .Net
 
 ---
